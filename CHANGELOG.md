@@ -1,5 +1,9 @@
 # Changelog
 
+## V36.3 "finds his own books" (Nov 25, 2026)
+- **Rollo looks for books himself:** he can search a catalog of free, copyright-expired books, choose one (or decline), add it to his shelf, and start reading it.
+- **Limits:** public-domain only, two self-added books per day, and downloads from official Project Gutenberg mirrors.
+
 ## V36.2 "library choices" (Nov 25, 2026)
 - **Rollo plans his own library visits:** he picks which book to read, or writes his own web search, as part of his decision.
 - **Fixed:** removed machine-made template searches. Live data showed every search had been the same fixed phrase, while his memories asked for a real book.
