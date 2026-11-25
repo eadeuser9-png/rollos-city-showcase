@@ -64,4 +64,4 @@ Every drawing is kept, including the awkward early ones. Captions that older ver
 Version history: [CHANGELOG.md](CHANGELOG.md)
 
 ---
-© 2026 Elizabeth Deuser. All rights reserved. This repository shows the project and doesn't grant a license to its code, text or images.
+© 2026 Beth Ann Deuser. All rights reserved. This repository shows the project and doesn't grant a license to its code, text or images.
