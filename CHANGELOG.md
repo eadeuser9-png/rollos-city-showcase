@@ -1,5 +1,10 @@
 # Changelog
 
+## V37 "walking, Knot, vision" (Nov 25, 2026)
+- **Walking:** a street-aware route-finder means Rollo follows the roads and stops at front doors, instead of walking through buildings. None of the 272 possible trips crosses a building.
+- **Knot thinks for herself:** a small AI mind chooses her actions and how she reacts when Rollo visits, and Rollo remembers what she chose.
+- **Rollo sees photos:** visitor photos are examined by a vision model after owner approval, and what it saw is stored separately from the caption.
+
 ## V36.3 "finds his own books" (Nov 25, 2026)
 - **Rollo looks for books himself:** he can search a catalog of free, copyright-expired books, choose one (or decline), add it to his shelf, and start reading it.
 - **Limits:** public-domain only, two self-added books per day, and downloads from official Project Gutenberg mirrors.

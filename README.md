@@ -56,9 +56,9 @@ Every drawing is kept, including the awkward early ones. Captions that older ver
 | Reading real book text | Live |
 | Memories with sources | Live (V36) |
 | AI-composed drawings | Live, limited drawing vocabulary |
-| Smooth walking that respects buildings | In progress |
-| Knot as her own AI agent | Planned |
-| Vision for visitor photos | Planned |
+| Street-following walking that respects buildings | Live (V37) |
+| Knot as her own AI agent | Live (V37) |
+| Vision for visitor photos | Live (V37), after owner approval |
 | Real purchases / print sales | Disabled by design; owner approval required |
 
 Version history: [CHANGELOG.md](CHANGELOG.md)
